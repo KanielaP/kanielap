@@ -1,3 +1,4 @@
+<!--
 ## ECE 205 Introduction 👋
 
 - Hi, I’m Kaniela
@@ -9,3 +10,4 @@
 - A fun fact about me is: I listen to DemonDice. 
 - What do I want to learn from EE 205?  C and C+, which I will have to find out through out this endeavor 
 - A book or movie I'd recommend is:  My Little Pony Equestria Girls: Rainbow Rocks
+-->
